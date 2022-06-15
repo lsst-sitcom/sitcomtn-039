@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{SITCOMTN-039,
+   author = { HyeYun Park },
+    title = {stuttered image analysis},
+     year = 2022,
+    month = Jun,
+   handle = {SITCOMTN-039},
+      url = {https://sitcomtn-039.lsst.io } }
